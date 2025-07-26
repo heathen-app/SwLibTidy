@@ -14,6 +14,7 @@
  */
 
 import Foundation
+import CoreFoundation
 import CLibTidy
 
 
